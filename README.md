@@ -2,19 +2,13 @@
 Heatsink Comics Code of Conduct 
 </h1>
 
-<sub> Version: 1.0  </sub>  
+<sub> Version: 1.0.1  </sub>  
 <sub> Created: February 12, 2022  </sub>  
 <sub> Last Edited: August 31, 2022  </sub>  
 
-## Table of Contents
-
-
-[TOC]
-
-
 ---
 
-### Short Version
+## Short Version
 1. **Be considerate.** This is a community for comic artists, and we want an _open, welcoming, and inclusive environment_. We have members from a variety of diverse backgrounds here, and we also have minors in this community. Please be cognizant of this when participating in chat or voice.
 2. **If someone is inconsiderate:** We expect members to be willing to accept feedback and aim to do better if it is pointed out by moderators that they have said or written inconsiderate comments. This may include editing what was written in Discord, and/or apologizing depending on the nuance of the situation.
 3. **No hate. No bigotry.** Spouting hate or expressing bigoted statements surpasses being inconsiderate and goes straight into inappropriate behavior. We do not tolerate this.
@@ -26,13 +20,13 @@ We apply this Code of Conduct in addition to, not in lieu of, [Discord’s Commu
 ---
 
 
-### Intent Statement
+## Intent Statement
 &emsp; In the interest of fostering an open, welcoming, and inclusive environment, Heatsink Comics Collective aims for participation in our community to be a harassment-free experience for everyone. We encourage our members to listen and learn from one another. This is both a professional space and a friendly space where creators are encouraged to learn by doing and grow by making friends.
 
 &emsp; Heatsink Comics Collective started as a series of online programming and print publications dedicated to supporting and growing the cartooning community in South Florida and beyond. Following the motto of “We believe in learning by doing and growing by making friends,” Heatsink Comics Collective originated as an offshoot of Radiator Comics, a distributor, producer, and promoter of hand-made, self-published and small-press comics that focus on self-expression and storytelling.
 
 
-### Scope & Purpose
+## Scope & Purpose
 
 > “A Code of Conduct is a tool for creating inclusive spaces.” - Audrey Eschright
 
@@ -44,14 +38,14 @@ We apply this Code of Conduct in addition to, not in lieu of, [Discord’s Commu
 &emsp; For example, an effective code of conduct requires updating when a potential [missing stair](https://en.wikipedia.org/wiki/Missing_stair) situation is pointed out. Another example is for “[on a technicality](https://eev.ee/blog/2016/07/22/on-a-technicality/)” situations. A code of conduct can be an effective tool for outlining best practices in a wide berth of situations, but in order to adapt to handling specific situations, moderators may need to review situations on a case by case basis and treat this as a living document rather than word of law.
 
 
-### Our Standards
+## Our Standards
 
 &emsp; Heatsink Comics Collective is dedicated to being an inclusive community that continues to be an excellent space in which to communicate, collaborate, and contribute.
 
 &emsp; We want this to be a positive experience for everyone, regardless of age, caste, citizenship, level of ability, education, ethnicity, gender identity or expression, immigration status, level of experience, neurodiversity, physical appearance or body size, nationality, socio-economic status, sexual orientation, race, or religion (or lack thereof). 
 
 
-#### Community Guidelines
+### Community Guidelines
 
 &emsp; We aim to cultivate community norms to foster an open, welcoming, and inclusive environment. Examples of behavior that contributes to that include:
 
@@ -68,7 +62,7 @@ We apply this Code of Conduct in addition to, not in lieu of, [Discord’s Commu
 * Active listening, rather than waiting to speak.
 
 
-#### Supporting Diversity
+### Supporting Diversity
 
 &emsp; Heatsink Comics Collective is an inclusive, diverse community. If you are new to discussions about diversity, we encourage you to follow these guidelines to support marginalized groups in our community: 
 
@@ -84,7 +78,7 @@ We apply this Code of Conduct in addition to, not in lieu of, [Discord’s Commu
 :eight_spoked_asterisk: More information can be found in the [Resources](#Resources) section.
 
 
-#### Inappropriate Behavior
+### Inappropriate Behavior
 
 &emsp; We want all participants in our community to have the best possible experience they can. In order to be clear what that means, we've provided a list of examples of behaviors that are inappropriate. 
 
@@ -116,10 +110,10 @@ Inappropriate behavior examples includes:
 &emsp; It is up to individual users to decide if they will click on content or not, and please be aware that we cannot guarantee users will not see content they do not like. 
 
 
-### Procedure for Handling Incidents
+## Procedure for Handling Incidents
 
 
-#### Handling Bot Users
+### Handling Bot Users
 
 &emsp; Selfbots are automated bot users posing as user accounts. They are against [Discord’s Terms of Service](https://support.discord.com/hc/en-us/articles/115002192352-Automated-user-accounts-self-bots-). They are often malicious, and it can be difficult to verify that they are a bot due to the unlimited responses that can be programmed within them. 
 
@@ -128,7 +122,7 @@ Inappropriate behavior examples includes:
 &emsp; If you suspect a user is a selfbot, then please let a mod know. If they fail to give relevant answers to open-ended questions, then they will be removed and reported to Discord. 
 
 
-#### De-escalation Tips
+### De-escalation Tips
 
 &emsp; If someone says the conversation is getting too intense, then please take a break on the topic and give them space. \
  \
@@ -144,7 +138,7 @@ Inappropriate behavior examples includes:
 :eight_spoked_asterisk: More information can be found in the [Resources](#Resources) section.
 
 
-#### Handling Teachable Moments
+### Handling Teachable Moments
 
 &emsp; Our Handling Teachable Moments, aka minor incidents, process is for handling situations when a member acts, writes, or says something that goes against our community guidelines but is not immediately recognized as inappropriate behavior. 
 
@@ -155,9 +149,7 @@ Inappropriate behavior examples includes:
 &emsp; Depending on the nuance of the situation, moderators may opt to treat the situation as a major infraction instead due to additional negative behavior from the participant or if this is a repeat issue. 
 
 
-##### In the event of a minor incident:
-
-
+#### In the event of a minor incident:
 
 * If you feel able to address the situation on your own, privately message the person and ask them if they are willing to discuss it. 
     * Please note: you are **not** obligated to deal with this yourself.
@@ -169,7 +161,7 @@ Inappropriate behavior examples includes:
 
 :exclamation: In cases of unintentional harmful language, members who use problematic language should take steps to correct their language to demonstrate willingness to empathize, learn, and make amends.
 
-##### If the offending party is unwilling to deal with the issue:
+#### If the offending party is unwilling to deal with the issue:
 
 
 * Moderators time-out the offending party and ask them to reflect on how they have violated the code of conduct.
@@ -177,12 +169,12 @@ Inappropriate behavior examples includes:
 * If the issue is not resolved through mediation, Mods present a proposed course of action to deal with the violating party with consent from the community.
 
 
-#### Handling Major Infractions
+### Handling Major Infractions
 
 The consequences of flagrant/blatant/wilful inappropriate behavior is removal from the community at the discretion of the members of the community. 
 
 
-##### In the event of a serious infraction:
+#### In the event of a serious infraction:
 
 
 1. If you are not a moderator, then please report the issue to a moderator.
@@ -199,36 +191,32 @@ The consequences of flagrant/blatant/wilful inappropriate behavior is removal fr
 
 :exclamation: Noted Exception: if a new member joins the community and immediately starts making inappropriate posts, then moderators may timeout or ban the user before getting community buy-in due to the likelihood of it being a troll.
 
-
-
-
-
-#### Further Action
+### Further Action
 
 &emsp; This applies as follow up for both teachable moments and major infractions.
 
 
-##### If Further Action is needed:
+#### If Further Action is needed:
 
 &emsp; If the offended party does not feel a sincere effort to correct the harm is made, and feels uncomfortable with the offending member, they can request a quorum of community members to decide by consensus whether or not to remove the offending member. As all moderators are volunteers, the quorum will be made up of overall community members and not limited to moderators. 
 
 &emsp; When deciding on the quorum, moderators will ask for community members to step forward as volunteers and then randomly select five names pulled from the list of those who volunteered. [Example app for selecting names randomly.](https://commentpicker.com/random-name-picker.php)
 
 
-##### Ban Review
+#### Ban Review
 
 &emsp; If a member feels that a previous ban should be further reviewed, then they may call for one, and the moderators will have a town hall type discussion in Discord to review the situation. Please note that personal information may be excluded from such discussions in order to protect those impacted by the behavior of the member who was banned. 
 
 
-### Templates
+## Templates
 
 
-#### Event introduction boilerplate
+### Event introduction boilerplate
 
 > Thank you for joining us today. Heatsink Comics Collective is dedicated to being an inclusive and diverse community. One of our goals with these events is to build fellowship among cartoonists in a supportive, fun, and safe space. Please be mindful of the language that you use in order to reflect those values. We want to ensure that everyone feels welcome and has a good time!
 
 
-##### Community Announcement template for reminding users of mindful language
+#### Community Announcement template for reminding users of mindful language
 
 > "We are working to be more cognizant of encouraging inclusive values and being a welcoming community. With this in mind,"
 
@@ -237,10 +225,10 @@ The consequences of flagrant/blatant/wilful inappropriate behavior is removal fr
 ---
 
 
-### Resources
+## Resources
 
 
-##### Comics that illustrate issues 
+#### Comics that illustrate issues 
 
 
 * [The Pencilsword: On a plate by Toby Morris](https://www.rnz.co.nz/news/the-wireless/373065/the-pencilsword-on-a-plate)  \
@@ -255,9 +243,7 @@ A comic about _sealioning_, a type of trolling that hides behind the veneer of d
 
 
 
-##### Articles on dealing with issues
-
-
+#### Articles on dealing with issues
 
 * [How to Handle Mistakes by The Guide to Allyship](https://guidetoallyship.com/#how-to-handle-mistakes)
 * [How bystanders can shut down microaggressions by American Psychological Association](https://www.apa.org/monitor/2021/09/feature-bystanders-microaggressions) 
@@ -265,7 +251,7 @@ A comic about _sealioning_, a type of trolling that hides behind the veneer of d
 
 
 
-### License and Attribution
+## License and Attribution
 
 The Heatsink Comics Collective Code of Conduct is licensed under the [Creative Commons Attribution-Share Alike 3.0 license](https://www.elastic.co/community/codeofconduct). It was initially adapted from [Elastic’s Community Code of Conduct](https://www.elastic.co/community/codeofconduct), which is under the same license. _Our Code of Conduct was inspired by and borrows content from Codes of Conduct of other open source projects, including:_
 
@@ -280,7 +266,7 @@ The Heatsink Comics Collective Code of Conduct is licensed under the [Creative C
 * [Otter Tech's Code of Conduct Template](https://github.com/sagesharp/code-of-conduct-template/)
 
 
-### Update Log
+## Update Log
 
 Here is a place to include notes of major updates and dates implemented once a document is no longer a work in progress.
 
